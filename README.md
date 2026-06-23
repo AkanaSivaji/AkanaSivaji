@@ -56,7 +56,7 @@ A results-driven management professional with documented expertise in leading te
 ## 💻 Operational & Technical Toolkit
 
 - **Data Analytics & Reporting:** Power BI Desktop, Advanced Data Organization, Financial Performance Reporting[
-- **Process Standardization:** Designing Standard Operating Procedures (SOPs), Workflow Flowcharting, UML
+- **Process Standardization:** Workflow Flowcharting, UML
 - **Core Management:** Resource Allocation, Team Leadership, Stakeholder Relationship Management, Crisis Composure
 
 ---
