@@ -68,7 +68,7 @@ A results-driven management professional with documented expertise in leading te
 | Focus Area | Tools & Methodologies |
 | :--- | :--- |
 | 📊 **Data Analytics & Reporting** | Power BI Desktop, Advanced Data Organization, Performance Reporting |
-| 📋 **Process Standardization** | Standard Operating Procedures (SOPs), Workflow Flowcharting, UML |
+| 📋 **Process Standardization** | Workflow Flowcharting, UML |
 | 🎯 **Core Management** | Resource Allocation, Team Leadership, Stakeholder Relations, Crisis Composure |
 
 ---
