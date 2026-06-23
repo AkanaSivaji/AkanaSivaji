@@ -1,52 +1,75 @@
 # Hi there, I'm Akana Sivaji 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Operations+Leader;Process+Excellence;Strategic+Management" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1E3A8A&center=true&vCenter=true&width=500&lines=Operations+Management;Process+Optimization;Account+Onboarding" alt="Typing Animation" />
 </p>
 
-### Operations & Process Excellence Leader
-
-A precision-driven Management professional with a proven track record of optimizing workflow efficiency, managing cross-functional team dynamics, and handling corporate operations[cite: 1, 2]. Experience includes driving a 15% increase in team productivity, managing end-to-end service delivery logistics, and leading cross-cultural coordination within the healthcare operations and consumer-tech sectors[cite: 1, 2]. Focused on translating data insights into strategic operational value through advanced business intelligence and enterprise management frameworks[cite: 1, 2].
+A results-driven management professional with documented expertise in leading teams, streamlining workflows, and attaining corporate goals. Proven track record of optimizing internal productivity by implementing structured processes, resulting in a 15% increase in operational efficiency. Experienced in handling high-volume operational pipelines, cross-cultural international client coordination, and data-driven account onboarding.
 
 ---
 
 ## 🛠️ Core Competencies
 
-- **Operations Management:** Process Workflow Optimization, Cross-Functional Coordination, Service Delivery Logistics[cite: 1, 2].
-- **Corporate Operations:** Stakeholder Relationship Management, Account Onboarding, Operational Performance Reporting[cite: 1, 2].
-- **Data & Analytics:** Business Intelligence Dashboarding, Resource Allocation Tracking, Data Organization[cite: 1, 2].
+- **Operations & Process Management:** Workflow optimization, service delivery tracking, and cross-functional team leadership.
+- **Corporate Account Onboarding:** Managing end-to-end B2B partner relationships, pipeline tracking, and market presence expansion.
+- **Data Analysis & Standardization:** Visual data labeling, financial and operational trend reporting, and standardizing workflows.
 
 ---
 
-## 💼 Professional Experience
+## 💼 Professional Experience (Post-Graduation)
 
-#### **AGS Health**
-*Process Associate*
-- Managed end-to-end insurance verification and prior authorization pipelines for international U.S. healthcare providers[cite: 1, 2].
-- Resolved documentation gaps and maintained strict compliance protocols to accelerate case approvals and enhance billing workflow efficiency[cite: 1, 2].
+#### **AGS Health** | *Process Associate* | *Jan 2025 – May 2026*
+- Conducted insurance verification and prior authorization operations for outpatient radiology services to ensure accurate patient eligibility and benefits validation.
+- Managed patient access pipelines, coordinated between providers and international payers, and maintained strict HIPAA compliance to enhance billing accuracy.
 
-#### **CIEL HR Pvt. Ltd. (Off-Roll for Swiggy)**
-*Sales Manager*
-- Directed regional operational expansion and merchant account management, onboarding 80+ enterprise restaurant partners[cite: 1, 2].
-- Engineered workflow enhancements across the onboarding lifecycle to drive a 60% expansion in regional operational performance[cite: 1, 2].
+#### **Teleperformance** | *Business Analyst (Contract)* | *Dec 2024 – Jan 2025*
+- Trained Google Lens AI using Datacompute software to enhance visual recognition accuracy and machine learning model precision.
+- Performed high-quality data labeling and operational data analysis to optimize input accuracy for AI training models.
+
+#### **CIEL HR Pvt. Ltd. (Off-Roll for Swiggy)** | *Sales Manager* | *Aug 2024 – Nov 2024*
+- Directed localized partner onboarding and account management, successfully expanding market presence by establishing partnerships with 80+ key restaurants[.
+- Engineered operational and targeted workflow adjustments that contributed to a 60% increase in regional process volume and order performance.
+- Recognized as the Youngest Sales Manager during this assignment for outstanding performance metrics.
 
 ---
 
-## 💻 Technical & Operational Toolkit
+## ⏳ Professional Experience (During Graduation)
 
-| Domain | Tools & Frameworks |
-| :--- | :--- |
-| **Enterprise & Analytics** | <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" /> <img src="https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white" /> |
-| **Process Management** | <img src="https://img.shields.io/badge/Process_Flowcharts-0052CC?style=for-the-badge" /> <img src="https://img.shields.io/badge/SOPs-34A853?style=for-the-badge" /> <img src="https://img.shields.io/badge/UML-EA4335?style=for-the-badge" />[cite: 2] |
+#### **Lovely Professional University** | *Student Counselor* | *May 2023 – July 2023*
+- Conducted individualized counseling sessions addressing academic, personal, and emotional concerns, contributing to a 5% decrease in student stress levels[cite: 2].
+- Managed inbound and outbound communications from students and parents to build strong stakeholder relationships.
+
+---
+
+## 🎓 Internships (During Graduation)
+
+#### **Pickyourtrail** | *Management Trainee (Intern)* | *Oct 2023 – Nov 2023*
+- Developed and implemented customized operational travel itineraries, resulting in a 15% increase in client referrals.
+- Demonstrated in-depth destination knowledge and provided insightful recommendations tailored to individual preferences.
+
+#### **Swiggy** | *Sales Intern* | *Jan 2023 – Feb 2023*
+- Examined financial trends and historical operational data, resulting in a 5% increase in sales for partner restaurants.
+- Prepared comprehensive market analysis reports on financial performance and communicated findings directly to higher authorities.
+
+---
+
+## 💻 Operational & Technical Toolkit
+
+- **Data Analytics & Reporting:** Power BI Desktop, Advanced Data Organization, Financial Performance Reporting[
+- **Process Standardization:** Designing Standard Operating Procedures (SOPs), Workflow Flowcharting, UML
+- **Core Management:** Resource Allocation, Team Leadership, Stakeholder Relationship Management, Crisis Composure
 
 ---
 
 ## 🎓 Academic Background
 
-- 🎓 **Bachelor of Business Administration (IT)** – Lovely Professional University[cite: 1, 2]
+- 🎓 **Bachelor of Business Administration (BBA - IT)** – Lovely Professional University (Graduated: 2024 | CGPA: 7.7/10)
 
 ---
 
-## 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/akana-sivaji-111834247](https://www.linkedin.com/in/akana-sivaji-111834247)[cite: 1]
-- **Email:** akanasivaji2004@gmail.com[cite: 1]
+## 📫 Contact & Networks
+
+- 🏢 **Location:** Tirupati, Andhra Pradesh, India
+- 💼 **LinkedIn:** [linkedin.com/in/akana-sivaji-111834247](https://www.linkedin.com/in/akana-sivaji-111834247)
+- 📧 **Email:** akanasivaji2004@gmail.com
+- 📱 **Mobile:** +91 8328282097
